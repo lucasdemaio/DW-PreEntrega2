@@ -41,10 +41,6 @@ h2 {
     text-align: center;
 }
 
-.nav-nombre h3{
-    font-size:large;
-    font-weight: bold !important;
-}
 
 h4{
     font-size:x-large;
@@ -89,9 +85,15 @@ img{
 
 .nav-nombre{
     grid-area: nav-nombre;
+    width: 190px;
     color: black;
     font-weight: 300 !important;
     font-size: 22px;
+}
+
+.nav-nombre h3{
+    font-size:large;
+    font-weight: bold !important;
 }
 
 /* Aplica estilo a los enlaces dentro de la barra de navegación */
