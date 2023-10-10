@@ -6,7 +6,7 @@
 
 .fuentes {
     font-family: 'Titillium Web', sans-serif;
-    
+
 }
 
 ul{ 
@@ -413,7 +413,7 @@ footer h5{
 
 
 
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width: 394px) and (max-width: 768px) {
     ul li{
         display: block;
     }
