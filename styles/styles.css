@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+HEAD {
+      height: auto;
+      padding: 5px;
+      text-align: center;
+}
+
 .fuentes {
     font-family: 'Titillium Web', sans-serif;
 
@@ -415,7 +421,7 @@ footer h5{
 
 
 
-@media (min-width: 394px) and (max-width: 768px) {
+@media (min-width: 320px) and (max-width: 767px) {
     ul li{
         display: block;
     }
