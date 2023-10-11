@@ -416,7 +416,7 @@ footer h5{
 
 .carousel-galeria-background{
     background-color:lightblue ;
-    height: 570px;
+    height: 550px;
 }
 
 
@@ -457,7 +457,8 @@ footer h5{
         "box"
         "box"
         ;
-    }
+    }    
+
 
     .iframe-video{
         width: 400px;
